@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestBuildEmptyApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="timer_init_text">10:00</string>
+</resources>
